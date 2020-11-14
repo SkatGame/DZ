@@ -1,0 +1,3 @@
+/home/skat/Desktop/HW1Glava/1 Глава 6 Номер/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/skat/Desktop/HW1Glava/1 Глава 6 Номер/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/skat/Desktop/HW1Glava/1 Глава 6 Номер/cmake-build-debug/CMakeFiles/1__6_.dir
